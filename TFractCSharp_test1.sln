@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFractCSharp_test1", "TFractCSharp_test1\TFractCSharp_test1.csproj", "{61F79A5B-D966-4F42-84A8-7BD81D77E9DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B54A197C-4993-4389-A9A7-E710147E9DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFractTests", "UnitTestProject1\TFractTests.csproj", "{70D0B8A4-C59B-424F-AE55-FD93A5B15877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F79A5B-D966-4F42-84A8-7BD81D77E9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F79A5B-D966-4F42-84A8-7BD81D77E9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F79A5B-D966-4F42-84A8-7BD81D77E9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F79A5B-D966-4F42-84A8-7BD81D77E9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D0B8A4-C59B-424F-AE55-FD93A5B15877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D0B8A4-C59B-424F-AE55-FD93A5B15877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D0B8A4-C59B-424F-AE55-FD93A5B15877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D0B8A4-C59B-424F-AE55-FD93A5B15877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B50BBE1-8E4A-419B-AEB6-1465E709457E}
+	EndGlobalSection
+EndGlobal
